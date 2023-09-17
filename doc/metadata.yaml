@@ -1,4 +1,4 @@
-description: null
+description: Fibre optics receiver
 github_branch: FORX01A
 github_repo: FORX01
 github_url: https://github.com/mlab-modules/FORX01
@@ -10,4 +10,8 @@ status: 0
 tags:
 - mlab
 - mlab-module
+- fibre-optic
+- mlab-fibre-optics
+- mlab-optics
+- mlab-rx
 title: FORX01
